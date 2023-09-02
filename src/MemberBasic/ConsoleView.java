@@ -42,7 +42,7 @@ public class ConsoleView {
         System.out.println("회원 이름 : " + member.getUserName());
         System.out.println("이메일 : " + member.getEmail());
         System.out.println("전화 번호 : " + member.getPhoneNumber());
-        System.out.println("주소 : " +member.getEmail());
+        System.out.println("주소 : " +member.getAddress());
         System.out.println("생년월일 : " + member.getBirthYear());
     }
 
